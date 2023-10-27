@@ -11,6 +11,7 @@ class Employee:
         return '{} {}'.format(self.fname, self.lname)
 
 
+
 emp1 = Employee('Shubham','Masang',100)
 emp2 = Employee('Lalit','Girase',50)
 
